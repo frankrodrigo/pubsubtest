@@ -1,6 +1,6 @@
 from google.cloud import pubsub_v1
 
-# TODO(developer)
+
 project_id = "cbd3354-435500"
 topic_id = "my-topic"
 

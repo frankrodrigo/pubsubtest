@@ -1,7 +1,6 @@
 from concurrent.futures import TimeoutError
 from google.cloud import pubsub_v1
 
-# TODO(developer)
 project_id = "cbd3354-435500"
 subscription_id = "my-sub"
 # Number of seconds the subscriber should listen for messages
